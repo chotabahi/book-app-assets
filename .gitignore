@@ -5,3 +5,5 @@ desktop.ini
 .idea/
 *.tmp
 *.log
+
+serviceAccountKey.json
